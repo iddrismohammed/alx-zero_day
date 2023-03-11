@@ -1,2 +1,2 @@
 My first readme 
-I personelly Updated it
+Updated it
